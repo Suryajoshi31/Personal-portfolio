@@ -1,0 +1,4 @@
+/* App.css - Cleared to use global Tailwind styles from index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
